@@ -19,7 +19,7 @@
     Lets clone the repo locally to customize it to suit your needs.
 
     ```bash
-    git clone https://github.com/miztiik/security-incident-response-instance-isolation.git
+    git clone [https://github.com/miztiik/security-incident-response-instance-isolation.git](https://github.com/ragulmuthu03/AWS-Incident-Response-Tool)
     cd security-incident-response-instance-isolation
     ```
 
